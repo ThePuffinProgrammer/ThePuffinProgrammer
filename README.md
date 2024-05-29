@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePuffinProgrammer
 - 👀 I’m interested in coding and screen related stuff
-- 🌱 I’m currently learning: html, javascript, css, xml
+- 🌱 I’m currently learning: html, javascript, css, xml, and i might learn c 
 - 💞️ I’m looking to collaborate on: idk what rn
 - 📫 How to reach me: email
 - 😄 Pronouns: he/him
